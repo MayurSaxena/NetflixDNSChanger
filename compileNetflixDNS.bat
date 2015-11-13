@@ -1,0 +1,1 @@
+python C:/Python34/Scripts/cxfreeze C:/Users/Mayur/Dropbox/Desktop/NetflixDNS.py --target-dir NetflixDNS
